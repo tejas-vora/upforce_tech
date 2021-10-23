@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/upforce_tech/static/css/main.9e711bb5.chunk.css",
+    "main.js": "/upforce_tech/static/js/main.8fb145fd.chunk.js",
+    "main.js.map": "/upforce_tech/static/js/main.8fb145fd.chunk.js.map",
+    "runtime-main.js": "/upforce_tech/static/js/runtime-main.5afe6b66.js",
+    "runtime-main.js.map": "/upforce_tech/static/js/runtime-main.5afe6b66.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/upforce_tech/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.8901bb9e.chunk.js": "/upforce_tech/static/js/2.8901bb9e.chunk.js",
+    "static/js/2.8901bb9e.chunk.js.map": "/upforce_tech/static/js/2.8901bb9e.chunk.js.map",
+    "static/js/3.b177dcd8.chunk.js": "/upforce_tech/static/js/3.b177dcd8.chunk.js",
+    "static/js/3.b177dcd8.chunk.js.map": "/upforce_tech/static/js/3.b177dcd8.chunk.js.map",
+    "index.html": "/upforce_tech/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/upforce_tech/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.9e711bb5.chunk.css.map": "/upforce_tech/static/css/main.9e711bb5.chunk.css.map",
+    "static/js/2.8901bb9e.chunk.js.LICENSE.txt": "/upforce_tech/static/js/2.8901bb9e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5afe6b66.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.8901bb9e.chunk.js",
+    "static/css/main.9e711bb5.chunk.css",
+    "static/js/main.8fb145fd.chunk.js"
+  ]
+}
