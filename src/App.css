@@ -1,38 +1,67 @@
+#root {
+  background-color: black;
+  padding: 20px 0;
+}
 .App {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  width: 50%;
+  margin: auto;
   color: white;
-}
+  /* height: 90vh; */
+  border-radius: 1rem;
 
-.App-link {
-  color: #61dafb;
+  background-color: #3c3a3a;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.comtainer {
+  width: 70%;
+  margin: auto;
+}
+.form-rounded {
+  border-radius: 1rem !important;
+  border: 3px solid green !important;
+  /* outline: 2px solid green !important; */
+}
+.signup_button {
+  background-color: black;
+  color: white;
+  border: none;
+  margin-top: 20px;
+  margin-right: 10px;
+  border-radius: 2rem;
+  padding: 8px 23px;
+}
+.active_button {
+  background-color: #7bed8e;
+  color: black;
+  border: none;
+  margin-top: 20px;
+  border-radius: 2rem;
+  padding: 8px 23px;
+}
+.label_text {
+  display: block;
+  text-align: left;
+  margin-left: 15px;
+  margin-bottom: 5px;
+}
+.submit_btn {
+  background-color: #7bed8e;
+  color: black;
+  border: 0;
+  padding: 14px 50px;
+  margin: 20px 0;
+  border-radius: 4rem;
+}
+.submit_btn:hover {
+  background-color: greenyellow;
+}
+.term_condition {
+  color: #01e201;
+  cursor: pointer;
+}
+.title {
+  margin: 20px 0;
+}
+.error {
+  color: red;
 }
